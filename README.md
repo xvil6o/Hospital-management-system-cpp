@@ -4,14 +4,15 @@ Console-based application to manage hospital patients, appointments and doctors.
 
 ## Features
 - Add new patient/doctor
-- book/cancel an appointment 
-- View all records
+- Book/cancel an appointment 
+- View patients records
 - Search by ID or name
 - Save/load data to/from file (using fstream)
 - Input validation
+- Bill calculation 
 
 ## How to Run
-1. Compile: g++ main.cpp -o hospital
+1. Compile: g++ main.cpp -o Hospital Management System
 2. Run: ./Hospital Management System (Linux/Mac) or Hospital Management System.exe (Windows)
 
 ## Technologies
